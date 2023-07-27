@@ -7,7 +7,6 @@ import com.syntellect.Bean.ProductBean;
 
 @Repository
 public interface ProductDao extends JpaRepository<ProductBean, Long>{
-	
 
 
 }
