@@ -69,5 +69,6 @@ public class ProductBean {
 	public void setProduct_price(double product_price) {
 		this.product_price = product_price;
 	}
+
 	
 }
