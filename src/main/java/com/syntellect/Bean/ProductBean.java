@@ -70,5 +70,4 @@ public class ProductBean {
 		this.product_price = product_price;
 	}
 
-	
 }

@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 import com.syntellect.Bean.ProductBean;
 
 @Repository
-public interface ProductDao extends JpaRepository<ProductBean, Long>{
+public interface ProductDao extends JpaRepository<ProductBean, Long>{ 
 
 }
